@@ -1,10 +1,12 @@
 ---
-templateKey: 'blog-post'
-title: 'Again a stupid heading, God help me'
+templateKey: blog-post
+title: Again a stupid heading, God help me
 date: 2017-10-05T15:04:10.000Z
-featuredpost: true
+description: Dolorum aliquam sit eum, illum ad, nostrum quaerat vitae corporis,
+  laboriosam quasi iusto fugit! Natus explicabo fugiat fugit inventore
+  voluptatum vel at ut temporibus.
+featuredpost: false
 featuredimage: /img/image6.png
-description: Dolorum aliquam sit eum, illum ad, nostrum quaerat vitae corporis, laboriosam quasi iusto fugit! Natus explicabo fugiat fugit inventore voluptatum vel at ut temporibus.
 tags:
   - how to
   - tech
